@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/api.png</file>
+        <file>res/background.jpg</file>
+        <file>res/Close.png</file>
+        <file>res/humidity.png</file>
+        <file>res/search.png</file>
+        <file>res/sunrise.png</file>
+        <file>res/wind-2.png</file>
+        <file>res/pm25.png</file>
+        <file>res/tqi/baoxue.png</file>
+        <file>res/tqi/baoyu.png</file>
+        <file>res/tqi/baoyudaodabaoyu.png</file>
+        <file>res/tqi/dabaoyu.png</file>
+        <file>res/tqi/dadaobaoxue.png</file>
+        <file>res/tqi/dadaobaoyu.png</file>
+        <file>res/tqi/daxue.png</file>
+        <file>res/tqi/dayu.png</file>
+        <file>res/tqi/dongyu.png</file>
+        <file>res/tqi/duoyun.png</file>
+        <file>res/tqi/fuchen.png</file>
+        <file>res/tqi/leizhenyu.png</file>
+        <file>res/tqi/leizhenyubanyoubingbao.png</file>
+        <file>res/tqi/mai.png</file>
+        <file>res/tqi/qing.png</file>
+        <file>res/tqi/sabaoyudaotedabaoyu.png</file>
+        <file>res/tqi/shachenbao.png</file>
+        <file>res/tqi/tedabaoyu.png</file>
+        <file>res/tqi/undefine.png</file>
+        <file>res/tqi/wu.png</file>
+        <file>res/tqi/xiaoxuedaozhengxue.png</file>
+        <file>res/tqi/xiaoyu.png</file>
+        <file>res/tqi/xiaoyudaozhengyu.png</file>
+        <file>res/tqi/xue.png</file>
+        <file>res/tqi/yin.png</file>
+        <file>res/tqi/yu.png</file>
+        <file>res/tqi/yuxue.png</file>
+        <file>res/tqi/zhengxue.png</file>
+        <file>res/tqi/zhengxuedaodaxue.png</file>
+        <file>res/tqi/zhengyu.png</file>
+        <file>res/tqi/zhengyudaodayu.png</file>
+        <file>res/tqi/zhenxue.png</file>
+        <file>res/tqi/zhenyu.png</file>
+    </qresource>
+</RCC>
